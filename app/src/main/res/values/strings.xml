@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Enact Project</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur enim enim, luctus eget molestie a, semper et mi. Quisque venenatis, justo sit amet luctus egestas, erat mi feugiat ex, ut gravida turpis diam id elit. Nulla non vulputate orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec orci velit, pulvinar at efficitur vel, tincidunt id justo.</string>
+    <string name="dummy_2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur enim enim</string>
+</resources>
